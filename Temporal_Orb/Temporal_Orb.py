@@ -9,7 +9,7 @@ import winsound
 """
 Analog Clock with Weather, Timer, and Digital Time
 Author: M. Demirtas
-GitHub: https://github.com/MuhammedDemirtas/Temporal-Orb
+GitHub: https://github.com/MuhammedDemirtas/Temporal-Orb-Python
 """
 
 def update_clock():
