@@ -93,7 +93,7 @@ If you'd like to explore or modify the source code:
 
 M. Demirtas
 
-GitHub: [https://github.com/MuhammedDemirtas/Temporal-Orb]
+GitHub: [https://github.com/MuhammedDemirtas/Temporal-Orb-Python]
 
 ## License
 
