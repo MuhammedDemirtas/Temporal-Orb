@@ -29,7 +29,7 @@ This application can be used in two ways:
 
    - Set a custom countdown timer with just a few clicks.
    - A visual yellow line rotates around the clock face during the countdown.
-   - Plays a cheerful `dıt dıt dıt dıt` sound and displays a notification when the timer ends.
+   - Plays a cheerful sound and displays a notification when the timer ends.
 
 ## How to Use
 
@@ -48,10 +48,10 @@ If you'd like to explore or modify the source code:
    ```bash
    pip install requests
    ```
-3. Save the provided script as `Temporal_orb.py`.
+3. Save the provided script as `Temporal_Orb.py`.
 4. Run the script:
    ```bash
-   python Temporal_orb.py
+   python Temporal_Orb.py
    ```
 
 ## Detailed Features Walkthrough
@@ -80,7 +80,7 @@ If you'd like to explore or modify the source code:
 
 ## Files and Folder Structure
 
-- `Temporal_orb.py`: The main Python script for the application.
+- `Temporal_Orb.py`: The main Python script for the application.
 - `Temporal_Orb.exe`: Precompiled executable for instant use.
 - `README.md`: Comprehensive documentation for the project.
 
